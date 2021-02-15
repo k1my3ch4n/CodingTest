@@ -5,3 +5,7 @@ int main()
 {
     
 }
+
+-----------------------
+cout.setf(ios::fixed);
+cout.precision(5);
